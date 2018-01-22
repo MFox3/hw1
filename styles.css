@@ -1,0 +1,21 @@
+/* hw1 CSS code goes in this file. */
+
+h1{font-family: "Verdana"; text-align: center; font-size: 42px; color: white;}
+
+h2{text-align: left;font-family: "Verdana";font-size: 24px; color: white}
+
+body{font-family: "Verdana";text-align: left; font-size: 12px;background-color: gray;background-image: url(HomepagePicture.jpg); background-position: center; background-size: cover;}
+
+li{font-family: "Verdana"; color: white;}
+
+a{font-family: "Verdana";color: white;font-size: 14px;}
+
+div{font-family: "Verdana"; color: white}
+
+.important {width: 350px; color: white}
+
+.topnav a {text-align: right;padding-right: 14px; font-family: "Verdana"; color: white; font-size: 10px;}
+
+.logo {position: absolute;right: 230px;bottom: 250px}
+
+.link {position: absolute;right: 130px; bottom: 220px}
